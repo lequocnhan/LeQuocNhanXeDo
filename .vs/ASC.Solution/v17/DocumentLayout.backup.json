@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\wwwroot\\css\\materialize.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\css\\materialize.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\wwwroot\\css\\materialize.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\css\\materialize.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T15:04:27.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T14:45:22.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_MasterLayout.cshtml",
+              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
+              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T14:26:13.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "materialize.min.css",
+              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\css\\materialize.min.css",
+              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\css\\materialize.min.css",
+              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\css\\materialize.min.css",
+              "RelativeToolTip": "ASC.Web\\wwwroot\\css\\materialize.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T14:15:50.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASC.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:08:48.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T13:26:48.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationSettings.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "RelativeToolTip": "ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:26:03.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Program.cs",
+              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Program.cs",
+              "RelativeToolTip": "ASC.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:13:02.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthMessageSender.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Services\\AuthMessageSender.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\AuthMessageSender.cs",
+              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Services\\AuthMessageSender.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\AuthMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:14:12.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "materialize.css",
+              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\css\\materialize.css",
+              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\css\\materialize.css",
+              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\css\\materialize.css",
+              "RelativeToolTip": "ASC.Web\\wwwroot\\css\\materialize.css",
+              "ViewState": "AgIAAGgjAAAAAAAAAAAqwIojAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T14:15:29.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ASC.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T14:47:43.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISmsSender.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Services\\ISmsSender.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\ISmsSender.cs",
+              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Services\\ISmsSender.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\ISmsSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:15:09.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\IEmailSender.cs",
+              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:15:07.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
