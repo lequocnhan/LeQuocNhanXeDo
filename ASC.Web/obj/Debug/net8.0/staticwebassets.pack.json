@@ -21,20 +21,24 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\285807_auto_vehicle_car_automobile_convertible_icon.png",
-      "PackagePath": "staticwebassets\\images\\285807_auto_vehicle_car_automobile_convertible_icon.png"
+      "Id": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background1.jpg",
+      "PackagePath": "staticwebassets\\images\\background1.jpg"
     },
     {
-      "Id": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\pexels-alexgtacar-745150-1592384.jpg",
-      "PackagePath": "staticwebassets\\images\\pexels-alexgtacar-745150-1592384.jpg"
+      "Id": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background2.jpg",
+      "PackagePath": "staticwebassets\\images\\background2.jpg"
     },
     {
-      "Id": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\pexels-mikebirdy-120049.jpg",
-      "PackagePath": "staticwebassets\\images\\pexels-mikebirdy-120049.jpg"
+      "Id": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background3.jpg",
+      "PackagePath": "staticwebassets\\images\\background3.jpg"
     },
     {
-      "Id": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\pexels-nordic-overdrive-202768-627678.jpg",
-      "PackagePath": "staticwebassets\\images\\pexels-nordic-overdrive-202768-627678.jpg"
+      "Id": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\male.png",
+      "PackagePath": "staticwebassets\\images\\male.png"
     },
     {
       "Id": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\js\\materialize.js",

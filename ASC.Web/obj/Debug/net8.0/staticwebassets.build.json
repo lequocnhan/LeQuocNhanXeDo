@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "l1/umyuKG3VnbOXsRNELulV2yRfCujfriuSSqZQVL28=",
+  "Hash": "9RKGYUsiLrwf9TrGwyonxhIqoUr9oFvW9OJMNmNQFYo=",
   "Source": "ASC.Web",
   "BasePath": "_content/ASC.Web",
   "Mode": "Default",
@@ -1271,12 +1271,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\285807_auto_vehicle_car_automobile_convertible_icon.png",
+      "Identity": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background1.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
-      "RelativePath": "images/285807_auto_vehicle_car_automobile_convertible_icon.png",
+      "RelativePath": "images/background1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1287,15 +1287,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\285807_auto_vehicle_car_automobile_convertible_icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\background1.jpg"
     },
     {
-      "Identity": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\pexels-alexgtacar-745150-1592384.jpg",
+      "Identity": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background2.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
-      "RelativePath": "images/pexels-alexgtacar-745150-1592384.jpg",
+      "RelativePath": "images/background2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\pexels-alexgtacar-745150-1592384.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\background2.jpg"
     },
     {
-      "Identity": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\pexels-mikebirdy-120049.jpg",
+      "Identity": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background3.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
-      "RelativePath": "images/pexels-mikebirdy-120049.jpg",
+      "RelativePath": "images/background3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1325,15 +1325,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\pexels-mikebirdy-120049.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\background3.jpg"
     },
     {
-      "Identity": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\pexels-nordic-overdrive-202768-627678.jpg",
+      "Identity": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\logo.jpg",
       "SourceId": "ASC.Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\",
       "BasePath": "_content/ASC.Web",
-      "RelativePath": "images/pexels-nordic-overdrive-202768-627678.jpg",
+      "RelativePath": "images/logo.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1344,7 +1344,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\pexels-nordic-overdrive-202768-627678.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
+    },
+    {
+      "Identity": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\images\\male.png",
+      "SourceId": "ASC.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\",
+      "BasePath": "_content/ASC.Web",
+      "RelativePath": "images/male.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\male.png"
     },
     {
       "Identity": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\wwwroot\\js\\materialize.js",

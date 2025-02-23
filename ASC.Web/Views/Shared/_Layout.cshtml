@@ -1,7 +1,11 @@
 ﻿@{
     Layout = "~/Views/Shared/_MasterLayout.cshtml";
 }
+<!-- Materialize CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 
+<!-- Materialize JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
 <header>
     <nav class="white" role="navigation">
@@ -26,7 +30,7 @@
                 <br><br>
                 <h1 class="header center teal-text text-lighten-2">Automobile Service Center</h1>
                 <div class="row center">
-                    <h5 class="header col s12 light">Where Quality meets Safety</h5>
+                    <h5 class="header col s12 light ">Where Quality meets Safety</h5>
                 </div>
                 <div class="row center">
                     <a href="http://materializecss.com/getting-started.html" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">
@@ -38,6 +42,7 @@
         </div>
         <div class="parallax">
             <img src="/images/background1.jpg" alt="Unsplashed background 1" />
+
         </div>
     </div>
 </header>
@@ -85,3 +90,9 @@
         </div>
     </div>
 </footer>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var elems = document.querySelectorAll('.parallax');
+        M.Parallax.init(elems);
+    });
+</script>
