@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\",
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|c:\\users\\acer\\downloads\\asc.solution\\asc.solution\\asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|c:\\users\\acer\\downloads\\asc.solution\\asc.solution\\asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|c:\\users\\acer\\downloads\\asc.solution\\asc.solution\\asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|c:\\users\\acer\\downloads\\asc.solution\\asc.solution\\asc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|e:\\mon_hoc\\th_design_software\\asc.solution\\asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|c:\\users\\acer\\downloads\\asc.solution\\asc.solution\\asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B943BA2-307D-465B-8525-134799DA966A}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,45 +30,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_SecureLayout.cshtml",
-              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAAAMEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\ASC.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\ASC.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-22T15:05:21.606Z",
+              "WhenOpened": "2025-02-26T12:34:04.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Title": "_SecureLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAMEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-22T15:05:19.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T15:05:21.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T15:05:19.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\Home\\Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\ASC.Web\\Views\\Home\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Dashboard.cshtml",
-              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\ASC.Web\\Views\\Home\\Dashboard.cshtml",
               "RelativeToolTip": "ASC.Web\\Views\\Home\\Dashboard.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -73,11 +88,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ASC.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ASC.Web\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

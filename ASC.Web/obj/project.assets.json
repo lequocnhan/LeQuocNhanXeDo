@@ -8321,24 +8321,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Coding everything\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Acer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
       "projectName": "ASC.Web",
-      "projectPath": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
-      "packagesPath": "C:\\Users\\Coding everything\\.nuget\\packages\\",
-      "outputPath": "E:\\Mon_Hoc\\TH_Design_Software\\ASC.Solution\\ASC.Web\\obj\\",
+      "projectPath": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Acer\\Downloads\\ASC.Solution\\ASC.Solution\\ASC.Web\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Coding everything\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
